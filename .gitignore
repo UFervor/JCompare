@@ -1,0 +1,8 @@
+build/
+dist/
+site/
+*.egg-info/
+__pycache__/
+.DS_Store
+.vscode/
+.idea/
